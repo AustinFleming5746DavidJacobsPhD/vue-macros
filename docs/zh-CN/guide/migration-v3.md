@@ -51,3 +51,5 @@ Vue 2 已于 2023 年底进入终止支持阶段（EOL），因此我们决定�
 
 由于 Webpack 4 无法在 Node.js 18 及以上环境中运行，我们移除了对 Webpack 4 和 Vue CLI 4 的支持。
 建议您升级至 Vite 或 Rspack 等现代构建工具。
+
+<!-- Auto-update: 2025-10-12T15:12:31.692334 -->
